@@ -1,0 +1,2 @@
+# McCulloch-Pitts-Neural-net
+MODELLING PERCEPTION OF HOT AND COLD
