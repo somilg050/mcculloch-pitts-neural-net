@@ -8,3 +8,5 @@ Next, simulate the hot and cold problem and demonstrate that your network
 indeed achieves the desired output.
 
 ![Marketplace Preview](https://github.com/somilg050/McCulloch-Pitts-Neural-net/blob/master/HNC.png)
+![Marketplace Preview](https://github.com/somilg050/McCulloch-Pitts-Neural-net/blob/master/AND1.png)
+
